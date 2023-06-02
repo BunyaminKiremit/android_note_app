@@ -1,6 +1,6 @@
 # android_note_app
 <p> 
-Bu projede,SQLite ile yapılmış bir Note uygulamasıdır. Bu uygulamada kullanıcı alacağı notun başlığını, detayını ve tarihini ekleme ve eklediği notu silme özelliği mevcuttur.  
+Bu proje,SQLite ile yapılmış bir Note uygulamasıdır. Bu uygulamada kullanıcı alacağı notun başlığını, detayını ve tarihini ekleme ve eklediği notu silme özelliği mevcuttur.  
               
 ### Uygulamada Kullanılan Özellikler:
                     
